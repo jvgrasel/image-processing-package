@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: image-processing_grasel
+Version: 0.0.1
+Summary: Aprendendo sobre pacotes
+Home-page: https://github.com/jvgrasel/image-processing-package
+Author: joathan_grasel
+Author-email: joathan94@yahoo.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+
 # package_name
 
 Description. 
